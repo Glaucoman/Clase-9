@@ -92,6 +92,10 @@ nav a:hover {
     color: darkred;
 }
 
+.greeting {
+   text-align: center;
+   }
+
 .container-galeria {
     display: flex; /*para que este una al lado de la otra*/
     width: 100%; /* ancho */
